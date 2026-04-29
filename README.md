@@ -116,7 +116,7 @@ https://github.com/2dust/v2rayN/releases
 <img width="1194" height="784" alt="image" src="https://github.com/user-attachments/assets/1b542693-ed33-4a84-8409-f2ea333a548a" />
 
 
-&#127881; На этом настройка программы заершена. &#127875;
+### &#127881; На этом настройка программы заершена. &#127875;
 
 
 
